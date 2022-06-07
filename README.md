@@ -1,15 +1,17 @@
-# React Student List App 2 Version
+# React - Student List App - Version 3
 
-## Small app for student list management using React improved with refs and portals
+## Small app for student list management using React
+
+## Improved with Login page - Effect Hook
 
 <div align="center">
 Desktop Version
 
-![Desktop](images/desktop1.png)
+![Desktop](images/desktop.png)
 
 Mobile Version
 
-![Mobile](images/mobile1.png)
+![Mobile](images/mobile.png)
 
 </div>
 # react-student-list-management

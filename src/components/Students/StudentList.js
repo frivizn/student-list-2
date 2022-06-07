@@ -1,9 +1,9 @@
 import React from 'react'
 import Student from './Student'
 
-import classes from './StudentsList.module.css'
+import classes from './StudentList.module.css'
 
-const StudentsList = (props) => {
+const StudentList = (props) => {
   if (props.students.length === 0) {
     return (
       <h2 className={classes['students-list__fallback']}>Found no students.</h2>
@@ -31,4 +31,4 @@ const StudentsList = (props) => {
   )
 }
 
-export default StudentsList
+export default StudentList

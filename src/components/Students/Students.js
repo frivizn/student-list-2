@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import Card from '../UI/Card'
 import StudentFilter from './StudentFilter'
-import StudentsList from './StudentsList'
+import StudentList from './StudentList'
 import Header from './Header'
 import classes from './Students.module.css'
 
@@ -29,7 +29,7 @@ const Students = (props) => {
         />
         <h2>List of Students</h2>
         <Header />
-        <StudentsList
+        <StudentList
           students={filteredStudents}
           onDeleteStudent={onDeleteStudent}
         />

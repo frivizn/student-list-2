@@ -4,7 +4,7 @@
   padding: 0.5rem 1.5rem;
   border: 1px solid #2a6891;
   color: white;
-  background: #2a6891;
+  background: #741188;
   box-shadow: 0 0 4px rgba(0, 0, 0, 0.26);
   cursor: pointer;
 }
@@ -15,8 +15,8 @@
 
 .button:hover,
 .button:active {
-  background: #2a6891;
-  border-color: #2a6891;
+  background: #b650ca;
+  border-color: #b650ca;
   box-shadow: 0 0 8px rgba(0, 0, 0, 0.26);
 }
 

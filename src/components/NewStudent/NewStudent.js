@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import Card from '../UI/Card'
-import Button from '../UI/Button'
 import StudentForm from './StudentForm'
+import Button from '../UI/Button'
 import classes from './NewStudent.module.css'
 
 const NewStudent = (props) => {
